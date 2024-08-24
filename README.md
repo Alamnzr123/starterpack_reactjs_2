@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/Alamnzr123/apotik-landing-page">
+  <a href="https://github.com/Alamnzr123/starterpack_reactjs_2">
   ERP Landing Page
   </a>
   <br />
@@ -12,7 +12,7 @@ Modern landing page Simple & light is designed to provide all the basic componen
 
 ## Live Demo
 
-Take a look the live demo here 👉 [https://apotik-landing-page.vercel.app/](https://apotik-landing-page.vercel.app/)
+Take a look the live demo here 👉 [https://starterpack-reactjs-2.vercel.app/](https://starterpack-reactjs-2.vercel.app/)
 
 ## Getting Started
 
